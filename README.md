@@ -25,7 +25,6 @@ A threshold function, usually Heaviside or sign functions, maps the scalar value
 
 Indeed if the neuron output is exactly zero it cannot be assumed that the sample belongs to the first sample since it lies on the boundary between the two classes. Nonetheless for the sake of simplicity,ignore this situation.
 
-
 ## ALGORITHM:
 
 1.Importing the libraries
